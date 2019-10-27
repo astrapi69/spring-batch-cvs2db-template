@@ -1,5 +1,6 @@
 package de.alpharogroup.spring.batch.cvs2db.mapper;
 
+import de.alpharogroup.bean.mapper.GenericMapper;
 import de.alpharogroup.spring.batch.cvs2db.dto.Friend;
 import de.alpharogroup.spring.batch.cvs2db.entity.FriendsEntity;
 import org.mapstruct.Mapper;
