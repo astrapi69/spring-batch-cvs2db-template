@@ -1,12 +1,12 @@
-package de.alpharogroup.spring.batch.configuration;
+package de.alpharogroup.spring.batch.cvs2db.configuration;
 
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.PersistenceException;
 
-import de.alpharogroup.spring.batch.dto.Friend;
-import de.alpharogroup.spring.batch.entity.FriendsEntity;
+import de.alpharogroup.spring.batch.cvs2db.dto.Friend;
+import de.alpharogroup.spring.batch.cvs2db.entity.FriendsEntity;
 import de.alpharogroup.spring.batch.factory.SpringBatchObjectFactory;
-import de.alpharogroup.spring.batch.mapper.FriendsEntityMapper;
+import de.alpharogroup.spring.batch.cvs2db.mapper.FriendsEntityMapper;
 import org.mapstruct.factory.Mappers;
 import org.springframework.batch.core.Step;
 import org.springframework.batch.core.configuration.annotation.StepBuilderFactory;

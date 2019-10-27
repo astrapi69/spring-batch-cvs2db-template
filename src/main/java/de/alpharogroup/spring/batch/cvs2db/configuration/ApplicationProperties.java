@@ -1,4 +1,4 @@
-package de.alpharogroup.spring.batch.configuration;
+package de.alpharogroup.spring.batch.cvs2db.configuration;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 

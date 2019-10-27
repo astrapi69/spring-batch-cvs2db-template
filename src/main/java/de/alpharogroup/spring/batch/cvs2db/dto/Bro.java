@@ -1,4 +1,4 @@
-package de.alpharogroup.spring.batch.dto;
+package de.alpharogroup.spring.batch.cvs2db.dto;
 
 import lombok.*;
 import lombok.experimental.FieldDefaults;

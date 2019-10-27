@@ -1,7 +1,7 @@
-package de.alpharogroup.spring.batch.mapper;
+package de.alpharogroup.spring.batch.cvs2db.mapper;
 
-import de.alpharogroup.spring.batch.dto.Friend;
-import de.alpharogroup.spring.batch.entity.FriendsEntity;
+import de.alpharogroup.spring.batch.cvs2db.dto.Friend;
+import de.alpharogroup.spring.batch.cvs2db.entity.FriendsEntity;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 import org.mapstruct.Mappings;

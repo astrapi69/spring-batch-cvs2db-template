@@ -22,7 +22,7 @@
  * OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
  * WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  */
-package de.alpharogroup.spring.batch.mapper;
+package de.alpharogroup.spring.batch.cvs2db.mapper;
 
 import java.util.Collection;
 import java.util.List;
